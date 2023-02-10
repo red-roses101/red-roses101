@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @red-roses101
-- 👀 I’m interested in c and c++ fan of linux
+- 👀 I’m interested in c and c++ fan of linux and iam a student who"s at the age 60 willing to learn for the rest of my life 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on project 
 - 📫 How to reach me ...
