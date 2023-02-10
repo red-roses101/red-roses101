@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @red-roses101
 - 👀 I’m interested in c and c++ fan of linux
-- 🌱 I’m currently learning fluter 
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on project 
 - 📫 How to reach me ...
 
